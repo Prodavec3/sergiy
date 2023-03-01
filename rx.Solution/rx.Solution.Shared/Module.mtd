@@ -1,0 +1,58 @@
+{
+  "$type": "Sungero.Metadata.SolutionMetadata, Sungero.Metadata",
+  "NameGuid": "c2be2d26-87bc-470e-b5e5-75ec2018865e",
+  "Name": "Solution",
+  "AsyncHandlers": [],
+  "ClientAssemblyName": "rx.Solution.Client",
+  "ClientBaseAssemblyName": "rx.Solution.ClientBase",
+  "ClientBaseNamespace": "rx.Solution.ClientBase",
+  "ClientNamespace": "rx.Solution.Client",
+  "Code": "Solutio",
+  "CompanyCode": "rx",
+  "Cover": {
+    "NameGuid": "e84c6d80-47d4-4603-bb20-8ebc853387fe",
+    "Actions": [],
+    "Background": null,
+    "Footer": {
+      "NameGuid": "a53bc2de-df59-4eb0-b1b4-13761eef4883",
+      "BackgroundPosition": "Stretch"
+    },
+    "Groups": [],
+    "Header": {
+      "NameGuid": "4ea2d908-d071-4656-a3e6-0b8f64be3cc0",
+      "BackgroundPosition": "Stretch"
+    },
+    "Tabs": []
+  },
+  "DesktopViews": [],
+  "IconResourcesKeys": [],
+  "Importance": "Medium",
+  "InterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "InterfaceNamespace": "rx.Solution",
+  "OrderedSpecialFolders": [],
+  "PublicStructures": [],
+  "ResourceInterfaceAssemblyName": "Sungero.Domain.Interfaces",
+  "ResourceInterfaceNamespace": "rx.Solution",
+  "ResourcesKeys": [],
+  "ServerAssemblyName": "rx.Solution.Server",
+  "ServerNamespace": "rx.Solution.Server",
+  "SharedAssemblyName": "rx.Solution.Shared",
+  "SharedNamespace": "rx.Solution.Shared",
+  "SpecialFolders": [],
+  "Version": "0.0.1.0",
+  "Widgets": [],
+  "Versions": [
+    {
+      "Type": "SolutionMetadata",
+      "Number": 8
+    },
+    {
+      "Type": "ModuleMetadata",
+      "Number": 8
+    },
+    {
+      "Type": "DomainApi",
+      "Number": 3
+    }
+  ]
+}
